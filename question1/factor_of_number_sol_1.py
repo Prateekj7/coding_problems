@@ -15,3 +15,10 @@ print(count_of_factors)
 
 # NUM/ITERATOR -->QUOTIENT 18/2 = 9
 # NUM%ITERATOR -->REMAINDER 18%2 = 0
+
+print(18/2) #9 float value
+print(18%2) #0 integer value
+
+
+#float is something like 18.0, 19.023 wherever there is a decimal value
+# integer is 18, 19, 22, -- where there is not integer value
